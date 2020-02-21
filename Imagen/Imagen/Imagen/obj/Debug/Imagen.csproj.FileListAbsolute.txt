@@ -1,0 +1,7 @@
+C:\Users\noeal\source\repos\Imagen\Imagen\bin\Debug\Imagen.exe.config
+C:\Users\noeal\source\repos\Imagen\Imagen\bin\Debug\Imagen.exe
+C:\Users\noeal\source\repos\Imagen\Imagen\bin\Debug\Imagen.pdb
+C:\Users\noeal\source\repos\Imagen\Imagen\obj\Debug\Imagen.csprojAssemblyReference.cache
+C:\Users\noeal\source\repos\Imagen\Imagen\obj\Debug\Imagen.csproj.CoreCompileInputs.cache
+C:\Users\noeal\source\repos\Imagen\Imagen\obj\Debug\Imagen.exe
+C:\Users\noeal\source\repos\Imagen\Imagen\obj\Debug\Imagen.pdb

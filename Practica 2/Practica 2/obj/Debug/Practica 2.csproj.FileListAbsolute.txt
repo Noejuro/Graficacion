@@ -1,0 +1,6 @@
+C:\Users\noeal\source\repos\Practica 2\Practica 2\bin\Debug\Practica 2.exe.config
+C:\Users\noeal\source\repos\Practica 2\Practica 2\bin\Debug\Practica 2.exe
+C:\Users\noeal\source\repos\Practica 2\Practica 2\bin\Debug\Practica 2.pdb
+C:\Users\noeal\source\repos\Practica 2\Practica 2\obj\Debug\Practica 2.csprojAssemblyReference.cache
+C:\Users\noeal\source\repos\Practica 2\Practica 2\obj\Debug\Practica 2.exe
+C:\Users\noeal\source\repos\Practica 2\Practica 2\obj\Debug\Practica 2.pdb

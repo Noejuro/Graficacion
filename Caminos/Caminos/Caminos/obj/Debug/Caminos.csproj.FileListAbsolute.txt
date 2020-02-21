@@ -1,0 +1,7 @@
+C:\Users\noeal\source\repos\Caminos\Caminos\bin\Debug\Caminos.exe.config
+C:\Users\noeal\source\repos\Caminos\Caminos\bin\Debug\Caminos.exe
+C:\Users\noeal\source\repos\Caminos\Caminos\bin\Debug\Caminos.pdb
+C:\Users\noeal\source\repos\Caminos\Caminos\obj\Debug\Caminos.csprojAssemblyReference.cache
+C:\Users\noeal\source\repos\Caminos\Caminos\obj\Debug\Caminos.csproj.CoreCompileInputs.cache
+C:\Users\noeal\source\repos\Caminos\Caminos\obj\Debug\Caminos.exe
+C:\Users\noeal\source\repos\Caminos\Caminos\obj\Debug\Caminos.pdb

@@ -1,0 +1,6 @@
+C:\Users\noeal\Documents\UAA\Noé\7mo. Semestre\Graficación\Examen2\Examen2\bin\Debug\Examen2.exe.config
+C:\Users\noeal\Documents\UAA\Noé\7mo. Semestre\Graficación\Examen2\Examen2\bin\Debug\Examen2.exe
+C:\Users\noeal\Documents\UAA\Noé\7mo. Semestre\Graficación\Examen2\Examen2\bin\Debug\Examen2.pdb
+C:\Users\noeal\Documents\UAA\Noé\7mo. Semestre\Graficación\Examen2\Examen2\obj\Debug\Examen2.csprojAssemblyReference.cache
+C:\Users\noeal\Documents\UAA\Noé\7mo. Semestre\Graficación\Examen2\Examen2\obj\Debug\Examen2.exe
+C:\Users\noeal\Documents\UAA\Noé\7mo. Semestre\Graficación\Examen2\Examen2\obj\Debug\Examen2.pdb

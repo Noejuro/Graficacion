@@ -1,0 +1,7 @@
+C:\Users\noeal\source\repos\Iteracion\Iteracion\bin\Debug\Iteracion.exe.config
+C:\Users\noeal\source\repos\Iteracion\Iteracion\bin\Debug\Iteracion.exe
+C:\Users\noeal\source\repos\Iteracion\Iteracion\bin\Debug\Iteracion.pdb
+C:\Users\noeal\source\repos\Iteracion\Iteracion\obj\Debug\Iteracion.csprojAssemblyReference.cache
+C:\Users\noeal\source\repos\Iteracion\Iteracion\obj\Debug\Iteracion.csproj.CoreCompileInputs.cache
+C:\Users\noeal\source\repos\Iteracion\Iteracion\obj\Debug\Iteracion.exe
+C:\Users\noeal\source\repos\Iteracion\Iteracion\obj\Debug\Iteracion.pdb
